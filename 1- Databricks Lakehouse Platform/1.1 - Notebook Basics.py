@@ -45,6 +45,10 @@ print("Hello World!")
 
 # COMMAND ----------
 
+
+
+# COMMAND ----------
+
 print(full_name)
 
 # COMMAND ----------
@@ -70,4 +74,4 @@ display(files)
 
 # COMMAND ----------
 
-
+display().help()
